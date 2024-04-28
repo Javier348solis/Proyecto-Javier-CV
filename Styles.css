@@ -1,0 +1,24 @@
+.title {
+    text-align: center;
+}
+
+
+.line {
+    text-align: center;
+}
+
+.imagenes {
+    display: flex;
+    -ms-flex-item-align: center;
+    height: 30px;
+    width: 30px;
+    justify-content:flex-start;
+    
+}
+.Encabezado {
+border-color: black;
+border-style: solid;
+border-width: medium;
+border: solid #000 4px;
+
+}
