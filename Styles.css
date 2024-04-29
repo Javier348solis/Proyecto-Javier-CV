@@ -22,3 +22,11 @@ border-width: medium;
 border: solid #000 4px;
 
 }
+.circle{
+    fill: none;
+    stroke: blue;
+    stroke-width: 20;
+    stroke-dasharray: var(--porcentaje) 100;
+    transform: rotate(-90deg);
+    transform-origin: 50%;
+    }
