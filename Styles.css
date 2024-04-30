@@ -162,14 +162,20 @@ animation: llenar1 1s linear forwards ;
    top: 450px;
    right: 30px;
 }
-.Line7 {
-    border-color: black;
-    border-style: solid;
-    border-width: medium;
-    border: solid #000 2px;
-    position: absolute;  
-    top: 15px;
-    right: 15px;
-    left: 15px;
 
+.Line8{
+    transform: rotate(90deg);
+  width: 250px;
+  border: 2px solid;
+
+}
+.Line7 {
+   
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+.contenedor{
+    display: flex;
 }
