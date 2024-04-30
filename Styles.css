@@ -6,7 +6,9 @@
 .line {
     text-align: center;
 }
-
+body {
+    border: 3px solid;
+}
 
 .list {
     list-style-type: none;
@@ -109,6 +111,7 @@ animation: llenar1 1s linear forwards ;
     display: flex;
     align-items: center;
     justify-content: center;
+    gap:120px;
 }
 .Line{
     height: 2px;
@@ -136,21 +139,37 @@ animation: llenar1 1s linear forwards ;
 }
 .name {
     position: absolute;
-    left: 440px;
+    left: 425px;
 }
 .name1 {
     position: absolute;
-    right: 440px;
+    right: 425px;
 }
 .name2 {
     position: absolute;
-    right: 545px;
+    right: 190px;
 }
 .name3 {
     position: absolute;
-    left: 545px;
+    left: 190px;
 }
 .name4 {
     position: absolute;
-    left: 668px;
+    left: 658px;
+}
+.fotocv{
+   position: absolute;
+   top: 450px;
+   right: 30px;
+}
+.Line7 {
+    border-color: black;
+    border-style: solid;
+    border-width: medium;
+    border: solid #000 2px;
+    position: absolute;  
+    top: 15px;
+    right: 15px;
+    left: 15px;
+
 }
