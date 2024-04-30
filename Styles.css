@@ -30,6 +30,7 @@ border-color: black;
 border-style: solid;
 border-width: medium;
 border: solid #000 2px;
+
 }
 .Hola {
     width: 200px;
@@ -132,6 +133,24 @@ animation: llenar1 1s linear forwards ;
     justify-content: space-between;
     justify-content: space-around;
     justify-items: center;
-    
-
+}
+.name {
+    position: absolute;
+    left: 440px;
+}
+.name1 {
+    position: absolute;
+    right: 440px;
+}
+.name2 {
+    position: absolute;
+    right: 545px;
+}
+.name3 {
+    position: absolute;
+    left: 545px;
+}
+.name4 {
+    position: absolute;
+    left: 668px;
 }
