@@ -124,3 +124,14 @@ animation: llenar1 1s linear forwards ;
    justify-content: center;
     transform: rotate(90deg);
 }
+.Items {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    justify-content: space-between;
+    justify-content: space-around;
+    justify-items: center;
+    
+
+}
