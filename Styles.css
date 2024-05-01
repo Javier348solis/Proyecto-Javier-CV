@@ -8,6 +8,7 @@
 }
 body {
     border: 3px solid;
+    background-color: silver;
 }
 
 .list {
@@ -139,23 +140,23 @@ animation: llenar1 1s linear forwards ;
 }
 .name {
     position: absolute;
-    left: 425px;
+    left: 483px;
 }
 .name1 {
     position: absolute;
-    right: 425px;
+    right: 482px;
 }
 .name2 {
     position: absolute;
-    right: 190px;
+    right: 250px;
 }
 .name3 {
     position: absolute;
-    left: 190px;
+    left: 249px;
 }
 .name4 {
     position: absolute;
-    left: 658px;
+    left: 720px;
 }
 .fotocv{
    position: absolute;
@@ -178,4 +179,30 @@ animation: llenar1 1s linear forwards ;
 }
 .contenedor{
     display: flex;
+}
+
+.move1 {
+    position: absolute;
+    right: 250px;
+    margin-top: -160px;
+    gap: 100px;
+}
+.move2 {
+    position: absolute;
+    right: 250px;
+    margin-top: -80px; 
+}
+.MOVE{
+    display: flex;
+    justify-content: space-around;
+}
+.word {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 880px;
+    margin-top: -217px;
+    right: 260px;
+    margin-right: 2px solid;
 }
