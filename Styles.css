@@ -140,23 +140,23 @@ animation: llenar1 1s linear forwards ;
 }
 .name {
     position: absolute;
-    left: 483px;
+    left: 422px;
 }
 .name1 {
     position: absolute;
-    right: 482px;
+    right: 425px;
 }
 .name2 {
     position: absolute;
-    right: 250px;
+    right: 193px;
 }
 .name3 {
     position: absolute;
-    left: 249px;
+    left: 192px;
 }
 .name4 {
     position: absolute;
-    left: 720px;
+    left: 658px;
 }
 .fotocv{
    position: absolute;
@@ -182,27 +182,45 @@ animation: llenar1 1s linear forwards ;
 }
 
 .move1 {
-    position: absolute;
-    right: 250px;
-    margin-top: -160px;
-    gap: 100px;
+   
 }
 .move2 {
-    position: absolute;
-    right: 250px;
-    margin-top: -80px; 
+      
 }
 .MOVE{
     display: flex;
-    justify-content: space-around;
 }
-.word {
-    position: absolute;
+
+.img1{
+    margin-right: 70px;
+}
+
+.contenedor2{
+    display: flex;
+}
+.titulo2{
+
     display: flex;
     justify-content: center;
-    align-items: center;
-    margin-left: 880px;
-    margin-top: -217px;
-    right: 260px;
-    margin-right: 2px solid;
-}
+    margin-left: -62px;
+ }
+ #btn1 {
+    background-color: silver;
+    border: none;
+ }
+ #btn2 {
+    background-color: silver;
+    border: none;
+ }
+ #btn3 {
+    background-color: silver;
+    border: none;
+ }
+ #btn4 {
+    background-color: silver;
+    border: none;
+ }
+ #btn5 {
+    background-color: silver;
+    border: none;
+ }
