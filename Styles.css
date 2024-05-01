@@ -140,23 +140,23 @@ animation: llenar1 1s linear forwards ;
 }
 .name {
     position: absolute;
-    left: 422px;
+    left: 565px;
 }
 .name1 {
     position: absolute;
-    right: 425px;
+    right: 570px;
 }
 .name2 {
     position: absolute;
-    right: 193px;
+    right: 331px;
 }
 .name3 {
     position: absolute;
-    left: 192px;
+    left: 330px;
 }
 .name4 {
     position: absolute;
-    left: 658px;
+    left: 800px;
 }
 .fotocv{
    position: absolute;
@@ -192,7 +192,7 @@ animation: llenar1 1s linear forwards ;
 }
 
 .img1{
-    margin-right: 70px;
+    margin-right: 80px;
 }
 
 .contenedor2{
@@ -224,3 +224,22 @@ animation: llenar1 1s linear forwards ;
     background-color: silver;
     border: none;
  }
+#img1 {
+    background-color: silver;
+    border: none;
+}
+#img2 {
+    background-color: silver;
+    border: none;
+}
+#img3 {
+    background-color: silver;
+    border: none;
+}
+#img4 {
+    background-color: silver;
+    border: none;
+}
+.modificar {
+    margin-left: -80px;
+}
