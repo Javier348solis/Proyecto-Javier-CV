@@ -138,6 +138,9 @@ animation: llenar1 1s linear forwards ;
     justify-content: space-around;
     justify-items: center;
 }
+h4{
+    cursor: pointer;
+}
 .name {
     position: absolute;
     left: 485px;
