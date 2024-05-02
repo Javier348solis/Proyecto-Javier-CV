@@ -140,23 +140,23 @@ animation: llenar1 1s linear forwards ;
 }
 .name {
     position: absolute;
-    left: 565px;
+    left: 485px;
 }
 .name1 {
     position: absolute;
-    right: 570px;
+    right: 485px;
 }
 .name2 {
     position: absolute;
-    right: 331px;
+    right: 255px;
 }
 .name3 {
     position: absolute;
-    left: 330px;
+    left: 255px;
 }
 .name4 {
     position: absolute;
-    left: 800px;
+    left: 720px;
 }
 .fotocv{
    position: absolute;
@@ -207,6 +207,7 @@ animation: llenar1 1s linear forwards ;
  #btn1 {
     background-color: silver;
     border: none;
+
  }
  #btn2 {
     background-color: silver;
@@ -241,5 +242,5 @@ animation: llenar1 1s linear forwards ;
     border: none;
 }
 .modificar {
-    margin-left: -80px;
+    margin-left: -5px;
 }

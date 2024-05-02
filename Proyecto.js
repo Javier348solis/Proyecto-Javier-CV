@@ -33,30 +33,4 @@ function boton5() {
     
         alert("55% equivale a level superior junior")
 }
-let img1 = document.getElementById("img1").onclick = function () {
-    imagen1()
-}
-function img1() {
-    alert("Me gusta aprender nuevas cosas acerca de tecnologia")
-}
-//
-let img2 = document.getElementById("img2").onclick = function () {
-    imagen2()
-}
-function img2() {
-    alert("Me gusta escucgar musica en tiempos")
-}
-//
-let img3 = document.getElementById("img3").onclick = function () {
-    imagen3()
-}
-function img3() {
-    alert("Me encanta viajar a Europa")
-}
-//
-let img4 = document.getElementById("img4").onclick = function () {
-    imagen4()
-}
-function img4() {
-    alert("Siempre entreno los fin de semanas")
-}
+
